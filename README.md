@@ -1,4 +1,4 @@
-# Hyphenate
+# Hiphenate
 
 Simple utility module for hyphenating words, phrases and clauses
 
@@ -7,14 +7,14 @@ Simple utility module for hyphenating words, phrases and clauses
 ## Installation
 
 ```
-$ npm install hyphennate
+$ npm install hiphenate
 ```
 
 
 ## Usage
 
 ```javascript
-import hyphenate from 'hyphennate'
+import hyphenate from 'hiphenate'
 
 hyphenate('Mr. and Mrs. Foo Bar')
 //=> 'mr-and-mrs-foo-bar'
