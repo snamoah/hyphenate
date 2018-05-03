@@ -1,4 +1,4 @@
- Hyphenate
+# Hyphenate
 
 Simple utility module for hyphenating words, phrases and clauses
 
